@@ -1,4 +1,4 @@
-# <h1>Practice desktop Application</h1>
+# <h1> Desktop Application for practice</h1>
 ###### Desktop application created with Javax.swing
 <br/>
 
